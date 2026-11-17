@@ -1,0 +1,12 @@
+# Never commit secrets or big lab files
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.7z
+*.pcap
+*.pcapng
+.env
+*.key
+*.pem
+id_*

@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Tue Nov 17 16:37:02 2026 as: /usr/lib/nmap/nmap --privileged -sV -sC -p- -oA scans/02-web01-full web01
+Host: 10.10.20.5 (web01)	Status: Up
+Host: 10.10.20.5 (web01)	Ports: 22/open/tcp//ssh//OpenSSH 10.2p1 Ubuntu 2ubuntu3.8 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//nginx 1.28.3 (Ubuntu)/, 3000/open/tcp//ppp?///	Ignored State: closed (65532)
+# Nmap done at Tue Nov 17 16:37:28 2026 -- 1 IP address (1 host up) scanned in 25.84 seconds
